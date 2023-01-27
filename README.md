@@ -1,2 +1,2 @@
-# filmes-em-cartaz
-Pequeno projeto para estudo de React Native
+# Movies Native
+Small project to study React Native
